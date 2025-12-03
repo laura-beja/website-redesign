@@ -1,0 +1,8 @@
+.nav-link img {
+  filter: grayscale(100%);
+  transition: 0.3s;
+}
+
+.nav-link img:hover {
+  filter: grayscale(0%);
+}
